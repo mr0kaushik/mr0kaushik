@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **mr0kaushik/mr0kaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=mr0kaushik&count_private=true&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr0kaushik&layout=compact)
+
+<!--
+
+Connect me on\n
+[![LinkedIn][1.2]][1].
+
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+-->
+
+[1]: https://www.linkedin.com/in/mr0kaushik/
