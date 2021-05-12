@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on Freelance Projects
 - 🌱 I’m currently learning MVVM & Jetpack Compose
-- 💬 Ask me about Android & Flutter
+- 💬 [Ask me][portfolio-contact] about Android & Flutter
+- 🔗 Checkout my gatsby [Portfolio][portfolio]
 
 ##### Connect me on
 
@@ -35,12 +36,15 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr0kaushik&layout=compact)
 
+[portfolio]: https://mr0kaushik.in
+[portfolio-contact]: https://mr0kaushik.in/#contact
 <!--
 
 [LinkedIn][linkedin] [Twitter][twitter]
 
 [linkedin]: https://www.linkedin.com/in/mr0kaushik/
 [twitter]: https://www.twitter.com/mr0kaushik/
+[portfolio]: https://mr0kaushik.in
 -->
 
 
