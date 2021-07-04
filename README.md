@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr0kaushik" alt="mr0kaushik" /> </p>
 
-- 🔭 I'm currently focusing on my Academics 😥
 <!-- - 🔭 I'm currently working on Freelance Projects -->
 <!-- - 🌱 I’m currently learning MVVM & Jetpack Compose -->
+- 🔭 I'm currently focusing on my Academics 😥
 - 💬 [Ask me][portfolio-contact] about Android & Flutter
 - 🔗 Checkout my gatsby [Portfolio][portfolio]
 
