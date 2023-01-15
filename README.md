@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I'm currently working on Freelance Projects -->
 <!-- - 🌱 I’m currently learning MVVM & Jetpack Compose -->
-- 🔭 I'm currently focusing on my Academics 😥
+- 💼 I'm currently working at Uolo EdTech
 - 💬 [Ask me][portfolio-contact] about Android & Flutter
 - 🔗 Checkout my gatsby [Portfolio][portfolio]
 
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/mr0kaushik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mr0kaushik" height="30" width="40" /></a>
 <a href="https://twitter.com/mr0kaushik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mr0kaushik" height="30" width="40" /></a>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mr0kaushik&count_private=true&show_icons=true)
+![My github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=mr0kaushik&count_private=true&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr0kaushik&layout=compact)
+![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=mr0kaushik&layout=compact)
 
 [portfolio]: https://mr0kaushik.in
 [portfolio-contact]: https://mr0kaushik.in/#contact
