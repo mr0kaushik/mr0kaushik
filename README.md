@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning MVVM & Jetpack Compose -->
 - 💼 I'm currently working at Uolo EdTech
 - 💬 [Ask me][portfolio-contact] about Android & Flutter
-- 🔗 Checkout my gatsby [Portfolio][portfolio]
+<!-- - 🔗 Checkout my gatsby [Portfolio][portfolio] -->
 
 ##### Connect me on
 
